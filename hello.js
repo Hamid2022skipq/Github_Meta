@@ -1,2 +1,2 @@
-Hamid = "Come for Shine on the world"
-console.log(Hamid)
+H_A='Pakistan is Zindabad'
+console.log(H_A)
