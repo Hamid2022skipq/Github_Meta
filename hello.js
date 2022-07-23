@@ -1,1 +1,2 @@
-console.log("Hello World")
+Hamid = "Come for Shine on the world"
+console.log(Hamid)
